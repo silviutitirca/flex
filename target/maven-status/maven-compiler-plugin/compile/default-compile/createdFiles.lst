@@ -1,0 +1,8 @@
+springframework\spring5webflex\repositories\VendorRepository.class
+springframework\spring5webflex\domain\Category$CategoryBuilder.class
+springframework\spring5webflex\domain\Category.class
+springframework\spring5webflex\domain\Vendor.class
+springframework\spring5webflex\bootstrap\Bootstrap.class
+springframework\spring5webflex\domain\Vendor$VendorBuilder.class
+springframework\spring5webflex\FlexApplication.class
+springframework\spring5webflex\repositories\CategoryRepository.class
